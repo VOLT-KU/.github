@@ -1,1 +1,9 @@
-# .github
+# Welcome to VOLT - Center for Volatile Interactions GitHub Organization
+
+![](https://volt.ku.dk/images2023/VOLT_values_updated-for_website.png)
+
+Center for Volatile Interactions (VOLT) is a Center of Excellence established in 2023 with funding from the Danish National Research Foundation. The center is based at Department of Biology, Faculty of Science, University of Copenhagen. VOLT aims to characterize and quantify the production and consumption of volatiles by understudied organisms and environments, such as mosses, lichens, soils as well as fresh and marine waters.
+
+VOLT will approach the research challenges by combining unique organismal and process understanding with a holistic approach to volatile analysis from microscopic to landscape scales. This can only be achieved by synergies obtained by bringing together the center director, Riikka Rinnan, co-principal investigators Lasse Riemann, Anders Priemé, Kathrin Rousk and Jing Tang, and strong national and international collaborators.
+
+The center director, Riikka Rinnan, leads the Ecosystem-Atmosphere Interactions Group, which is internationally recognized for pioneering research on volatile organic compound exchange in Arctic ecosystems. Lasse Riemann, Marine Biology Section, is an expert in marine microbial ecology and applies molecular methods to study links between microorganisms and processes in marine waters. Anders Priemé, Microbiology Section, assesses soil microbial processes and interactions by applying metagenomics and metatranscriptomics. Kathrin Rousk, Terrestrial Ecology Section, has unique expertise in cryptogams and nitrogen fixation, and in linking processes to organisms. Jing Tang, Terrestrial Ecology Section, works with quantifying biogeochemical interactions between the biosphere and atmosphere, and understanding the impacts of climate on high-latitude ecosystems.
